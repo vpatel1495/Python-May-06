@@ -1,9 +1,5 @@
 #Assignement 3
 #PROBLEM 1
-    #Create a program to do the following tasks. Note: Without using inbuild functions like sort, min, sorted, reverse, split
-        #A) Split a given sentence into a list of words.
-        #B) Sort that list accordingly to the letters alphabetically.
-        #C) Sort that list alphabetically.
 
 sentence =input("Type any sentence, end sentence with a space: ")
 listA=[]
